@@ -1,1 +1,15 @@
-# fonts-for-coding
+# Fonts for coding
+
+* [**Consolas**](https://docs.microsoft.com/en-us/typography/font-list/consolas) (this one comes with windows)
+* [**Fira Code**](https://github.com/tonsky/FiraCode) 
+* [**Victor Mono**](https://rubjo.github.io/victor-mono/)
+* [**Iosevka**](https://github.com/be5invis/Iosevka)
+* [**Apercu Mono**](https://www.colophon-foundry.org/typefaces/apercu/)
+* [**Hack**](https://sourcefoundry.org/hack/)
+* [**Dejavu Sans Mono**](https://dejavu-fonts.github.io/)
+* [**Anonymous Pro**](https://www.marksimonson.com/fonts/view/anonymous-pro)
+* [**Inconsolata**](https://github.com/googlefonts/Inconsolata)
+* [**Source Code Pro**](https://github.com/adobe-fonts/source-code-pro)
+* [**Monaco**](https://github.com/todylu/monaco.ttf)
+* [**Ubuntu Mono**](https://fonts.google.com/specimen/Ubuntu+Mono)
+* [**Operator Mono**](https://github.com/coderJianXun/Operator-Mono)
